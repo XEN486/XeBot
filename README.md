@@ -1,2 +1,2 @@
 # XeBot
-a bot
+A bot that uses pycord which has some cool commands :)
