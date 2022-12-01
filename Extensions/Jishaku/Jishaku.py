@@ -1,4 +1,4 @@
 from jishaku.cog import Jishaku
 
-async def setup(bot):
-    await bot.add_cog(Jishaku(bot=bot))
+def setup(bot):
+    bot.add_cog(Jishaku(bot=bot))
